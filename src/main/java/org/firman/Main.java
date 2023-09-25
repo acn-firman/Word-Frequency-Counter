@@ -1,4 +1,4 @@
-package firman.lasaman;
+package org.firman;
 
 import java.util.Arrays;
 import java.util.HashMap;
